@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 60 60" width="100%">
+<g id="Icon">
+<rect fill="var(--fill-0, #979797)" height="60" rx="30" width="60"/>
+<g id="Edit 2">
+<g clip-path="url(#clip0_0_23956)" id="Camera">
+<g id="Icon_2">
+<path d="M44.6673 39.3333C44.6673 40.0406 44.3864 40.7189 43.8863 41.219C43.3862 41.719 42.7079 42 42.0007 42H18.0007C17.2934 42 16.6151 41.719 16.115 41.219C15.6149 40.7189 15.334 40.0406 15.334 39.3333V24.6667C15.334 23.9594 15.6149 23.2811 16.115 22.781C16.6151 22.281 17.2934 22 18.0007 22H23.334L26.0007 18H34.0007L36.6673 22H42.0007C42.7079 22 43.3862 22.281 43.8863 22.781C44.3864 23.2811 44.6673 23.9594 44.6673 24.6667V39.3333Z" stroke="var(--stroke-0, white)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+<path d="M30.0007 36.6667C32.9462 36.6667 35.334 34.2789 35.334 31.3333C35.334 28.3878 32.9462 26 30.0007 26C27.0551 26 24.6673 28.3878 24.6673 31.3333C24.6673 34.2789 27.0551 36.6667 30.0007 36.6667Z" stroke="var(--stroke-0, white)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_23956">
+<rect fill="white" height="32" transform="translate(14 14)" width="32"/>
+</clipPath>
+</defs>
+</svg>

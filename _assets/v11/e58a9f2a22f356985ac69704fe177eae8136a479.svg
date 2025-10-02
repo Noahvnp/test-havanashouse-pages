@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="100%" overflow="visible" preserveAspectRatio="none" style="display: block;" viewBox="0 0 40 40" width="100%">
+<g id="Icon">
+<rect fill="var(--fill-0, #979797)" height="40" rx="20" width="40"/>
+<g id="Edit 2">
+<g id="Camera">
+<g id="Icon_2">
+<path d="M32 27.7778C32 28.3671 31.7701 28.9324 31.361 29.3491C30.9518 29.7659 30.3968 30 29.8182 30H10.1818C9.60316 30 9.04821 29.7659 8.63904 29.3491C8.22987 28.9324 8 28.3671 8 27.7778V15.5556C8 14.9662 8.22987 14.401 8.63904 13.9842C9.04821 13.5675 9.60316 13.3333 10.1818 13.3333H14.5455L16.7273 10H23.2727L25.4545 13.3333H29.8182C30.3968 13.3333 30.9518 13.5675 31.361 13.9842C31.7701 14.401 32 14.9662 32 15.5556V27.7778Z" stroke="var(--stroke-0, white)" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 25.5556C22.41 25.5556 24.3636 23.5657 24.3636 21.1111C24.3636 18.6565 22.41 16.6667 20 16.6667C17.59 16.6667 15.6364 18.6565 15.6364 21.1111C15.6364 23.5657 17.59 25.5556 20 25.5556Z" stroke="var(--stroke-0, white)" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
